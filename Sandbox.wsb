@@ -1,0 +1,8 @@
+<Configuration>
+	<MappedFolders>
+		<MappedFolder>
+			<HostFolder>C:\Users\Remzi\Projects\guessing_game\target</HostFolder>
+			<ReadOnly>true</ReadOnly>
+		</MappedFolder>
+	</MappedFolders>
+</Configuration>
