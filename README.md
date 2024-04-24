@@ -6,3 +6,7 @@ To compile the game, you need to have Rust installed on your machine. If you don
 
 After that you need to install a couple of things to compile winresource, see the instructions here:
 https://crates.io/crates/winresource
+
+## Testing
+I use Windows Sandbox to test the game on Windows, but you can use any virtual machine or a real machine to test it.
+Windows Sandbox is only available on Windows 10 Pro, Enterprise, or Education.
