@@ -70,7 +70,7 @@ fn main() {
         println!();
     }
 
-    println!("\nPlease press {} to close the program.", style("Enter").color256(ColorCode::Info.value()));
+    println!("\nPress {} to close the program.", style("Enter").color256(ColorCode::Info.value()));
     let mut exit_input = String::new();
     io::stdin().read_line(&mut exit_input).expect("Failed to read line");
 }
