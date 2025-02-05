@@ -9,4 +9,4 @@ https://crates.io/crates/winresource
 
 ## Testing
 I use Windows Sandbox to test the game on Windows, but you can use any virtual machine or a real machine to test it.
-Windows Sandbox is only available on Windows 10 Pro, Enterprise, or Education.
+Windows Sandbox is only available on Windows 10/11 Pro, Enterprise, or Education.
